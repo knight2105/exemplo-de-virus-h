@@ -1,4 +1,4 @@
-Virus hentai paso a paso para python 
+Virus hpaso a paso para python 
 Capitulo 1 do virus entendendo como funciona a biblioteca(mas ou menos)
 
 Meu virus de hentai passo a passo para baixa a biblioteca akaneko:
